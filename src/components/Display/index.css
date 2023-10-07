@@ -1,0 +1,23 @@
+.bg-container {
+    background-color:  #0f172a;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'roboto';
+    font-size: 60px;
+}
+
+.image-container {
+    display: flex;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+}
